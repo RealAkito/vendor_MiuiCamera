@@ -157,7 +157,7 @@
     <!--whether hold blured background for effects preview in camera-->
     <bool name="is_camera_hold_blur_background">true</bool>
     <!--whether support peaking mf in camera-->
-    <bool name="support_camera_peaking_mf">true</bool>
+    <bool name="support_camera_peaking_mf">false</bool>
     <!--whether support gradienter in camera-->
     <bool name="support_camera_gradienter">true</bool>
     <!--whether scan qrcode with lower frequency in camera-->
